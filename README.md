@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h1 align="center">👋 Hi, I’m @scriptsavvy420 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">A passionate Full stack developer and Blockchain engineer</h3>
 
 - 🔥🔥Thank you for visiting my profile.🔥🔥
 
-- 👋 Hi, I’m @scriptsavvy420
+
 
 - 👀 I don't want to explain as much. If you want to know about me, you should see my skill sets.
   Most importantly, I am available ★24/7★, work in your ★time zone★ and will not stop working until you are ★100% satisfied★ with my work.
