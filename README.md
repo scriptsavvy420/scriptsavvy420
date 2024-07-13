@@ -39,7 +39,7 @@
 ✅ Blockchain Field:<br/>
 ★★ Networks: Ethereum, BSC, Solana, Polygon, Avalanche, Arbitrum, Ton, Jupitor<br/>
 ★★ Experienced Feild: DeFi(AMM models, Yield Farming, Staking, Liquidity Pools), Dex, NFT MarketPlace Development<br/>
-★★ Familiar Dex:Raydium, Uniswap,PancakeSwap
+★★ Familiar Dex:Raydium, Uniswap,PancakeSwap<br/>
 ★★ Languages:Solidity, Web3.js, Ether.js, Rust, Motoko, Tact, Truffle/Hardhat/Remix<br/>
 ✅  AI Field:<br/>
 ★★ Model Fine-tuning, Data-set infra config, <br/>
