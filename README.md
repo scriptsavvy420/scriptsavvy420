@@ -37,7 +37,7 @@
 </p>
 
 ✅ Blockchain Field:<br/>
-★★ Networks: Ethereum, BSC, Solana, Polygon, Avalanche, Arbitrum, Ton, Jupitor<br/>
+★★ Networks: Ethereum, Solana, BSC, ICP, Polygon, Avalanche, Arbitrum, Ton, Jupitor<br/>
 ★★ Experienced Feild: DeFi(AMM models, Yield Farming, Staking, Liquidity Pools), Dex, NFT MarketPlace Development<br/>
 ★★ Familiar Dex:Raydium, Uniswap,PancakeSwap<br/>
 ★★ Languages:Solidity, Web3.js, Ether.js, Rust, Motoko, Tact, Truffle/Hardhat/Remix<br/>
