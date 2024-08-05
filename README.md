@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I’m @scriptsavvy420 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Full stack developer and Blockchain engineer</h3>
+<h3 align="center">A passionate Full stack App developer</h3>
 
 - 🔥🔥Thank you for visiting my profile.🔥🔥
 
@@ -36,11 +36,8 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-✅ Blockchain Field:<br/>
-★★ Networks: Ethereum, Solana, BSC, ICP, Polygon, Avalanche, Arbitrum, Ton, Jupitor<br/>
-★★ Experienced Feild: DeFi(AMM models, Yield Farming, Staking, Liquidity Pools), Dex, NFT MarketPlace Development<br/>
-★★ Familiar Dex:Raydium, Uniswap,PancakeSwap<br/>
-★★ Languages:Solidity, Web3.js, Ether.js, Rust, Motoko, Tact, Truffle/Hardhat/Remix<br/>
+✅ Frontend Field:<br/>
+★★Swift UI, Kotlin, Flutter, ReactNative
 ✅  AI Field:<br/>
 ★★ Model Fine-tuning, Data-set infra config, <br/>
 ★★ Prediction using SVM model<br/>
