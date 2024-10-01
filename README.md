@@ -35,6 +35,10 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+✅ Blockchain Field:<br/>
+★★ Ethereum, BSC, Polygon, Avalanche, Arbitrum<br/>
+★★ DeFi(AMM models, Yield Farming, Staking, Liquidity Pools), Dex, NFT MarketPlace<br/>
+★★ Rust, Solidity, Web3.js, Ether.js, Truffle/Hardhat/Remix<br/>
 
 ✅  AI Field:<br/>
 ★★ Model Fine-tuning, Data-set infra config, <br/>
